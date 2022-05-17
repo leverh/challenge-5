@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 15px;
+    min-height: 100vh;
+    background-color: hsl(233, 47%, 7%);
+    color: white;
+}
+
+.card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 25rem;
+    width: 50rem;
+    height: auto;
+    background-color: hsl(244, 38%, 16%);
+}
+
+.headline {
+    padding: 5rem 6rem 2rem 4rem;
+    
+}
+
+.image-holder {
+    width: 100%;
+    height: auto;
+}
+
